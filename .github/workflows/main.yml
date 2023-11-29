@@ -31,4 +31,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ghcr.io/${{ github.repository_owner }}/cicd_with_docker:latest
+        tags: ghcr.io/adarsh9dev/cicd_with_docker:latest
