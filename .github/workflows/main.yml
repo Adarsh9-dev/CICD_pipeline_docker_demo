@@ -31,4 +31,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ghcr.io/adarsh9dev/cicd_with_docker
+        tags: ghcr.io/adarsh9-dev/cicd_with_docker
