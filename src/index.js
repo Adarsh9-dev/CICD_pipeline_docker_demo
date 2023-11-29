@@ -13,7 +13,7 @@ app.use(cors());
 app.get('/', (req, res) => {
   res.status(200).json({
     status: "success",
-    message: "API is running like butter"
+    message: "Developed by Adarsh Priyadarshi"
   });
 })
 
